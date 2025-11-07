@@ -1,0 +1,1 @@
+a:2:{s:5:"value";s:171:"function toggleMenu(){document.getElementById('sidebar').classList.toggle('-translate-x-full');document.getElementById('sidebar-cloudywrapper').classList.toggle('hidden')}";s:10:"expiration";N;}

@@ -1,0 +1,10 @@
+title: exercicececil
+baseline: ''
+baseurl: 'http://localhost:8000/'
+description: 'site de documentation avec Cecil'
+author:
+  name: Cecil
+  url: 'https://cecil.app'
+image: icon.png
+taxonomies:
+  tags: tag

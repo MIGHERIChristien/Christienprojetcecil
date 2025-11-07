@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8000/xsl/atom.xsl" media="all"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://localhost:8000/a-propos/</id>
+  <title>Site de Christien Migheri - A-propos</title>
+  <subtitle><![CDATA[Site description.]]></subtitle>
+  <link href="http://localhost:8000/a-propos/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:8000/a-propos/" rel="alternate" type="text/html" />
+  <updated>2025-11-07T12:30:17+01:00</updated>
+  <author>
+    <name>Site de Christien Migheri</name>
+    <uri>http://localhost:8000/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/a-propos/ce-que-je-fais/</id>
+    <title>ce que je fais</title>
+    <content type="html">
+      <![CDATA[<h1 id="christien-migheri">Christien Migheri</h1>
+<p>Bienvenue sur mon blog 👋<br>
+Ici, je partage mes expériences, mes projets et mes réflexions autour du <strong>développement</strong>, de la <strong>foi</strong>, et de la <strong>technologie au service de l’humain</strong>.</p>
+<hr>
+<h2 id="rџ-c-projet-de-gestion-dvЂ-tm-G-c-glise-en-c">🧩 Projet de gestion d’église en C</h2>
+<p>📅 Novembre 2025<br>
+Je développe actuellement une application complète de <strong>gestion pour les églises catholiques</strong> avec <strong>C#</strong> et <strong>Windows Forms</strong>, intégrant la gestion des fidèles, des messes, des dons et des prêtres.<br>
+Ce projet vise à aider les paroisses à mieux organiser leurs activités et à centraliser leurs données.</p>
+<p>👉 <a href="https://github.com/migherichristien" rel="noopener noreferrer">Voir sur GitHub</a></p>
+<hr>
+<h2 id="YoYaTb-pourquoi-jtAShchaime-coder">💡 Pourquoi j’aime coder</h2>
+<p>📅 Octobre 2025<br>
+Pour moi, coder, c’est plus qu’un métier — c’est une <strong>vocation</strong>.<br>
+Je crois que la technologie peut devenir un instrument puissant pour <strong>aider les autres</strong>, <strong>servir la communauté</strong> et <strong>rendre le monde plus organisé et efficace</strong>.</p>
+<blockquote>
+<p>“Le code est un service quand il est mis au profit des autres.”</p>
+</blockquote>
+<hr>
+<h2 id="rџљЂ-mes-prochains-projets">🚀 Mes prochains projets</h2>
+<p>📅 Août 2025<br>
+Je prépare plusieurs projets à venir :</p>
+<ul>
+<li>Une <strong>application web</strong> pour la gestion de groupes paroissiaux  </li>
+<li>Un <strong>outil de suivi de dons et de rapports</strong> pour les prêtres  </li>
+<li>Un site personnel dynamique présentant mes réalisations</li>
+</ul>
+<p>Reste connecté pour découvrir les prochaines mises à jour 🔔</p>
+<hr>
+<h2 id="rџ-liens-utiles">🔗 Liens utiles</h2>
+<ul>
+<li><a href="/">Accueil</a></li>
+<li><a href="/about/">À propos</a></li>
+<li><a href="https://github.com/migherichristien" rel="noopener noreferrer">Mon GitHub</a></li>
+<li><a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">Mon site officiel</a></li>
+</ul>
+<hr>
+<p>✨ <em>Propulsé par <a href="https://cecil.app" rel="noopener noreferrer">Cecil</a> &amp; designé par Christien Migheri</em></p>]]>
+    </content>
+    <link href="http://localhost:8000/a-propos/ce-que-je-fais/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:30:17+01:00</published>
+    <updated>2025-11-07T12:30:17+01:00</updated>
+  </entry>
+</feed>

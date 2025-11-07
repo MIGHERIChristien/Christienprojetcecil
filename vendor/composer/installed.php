@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => null,
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => null,
+            'dev_requirement' => false,
+        ),
+        'cecil/theme-docs' => array(
+            'pretty_version' => '2.42.2',
+            'version' => '2.42.2.0',
+            'type' => 'cecil-theme',
+            'install_path' => __DIR__ . '/../../themes/docs',
+            'aliases' => array(),
+            'reference' => '43d2b4e51178c14bcd275c7426ce17488590e8cf',
+            'dev_requirement' => false,
+        ),
+        'cecil/theme-installer' => array(
+            'pretty_version' => '2.0.0',
+            'version' => '2.0.0.0',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/../cecil/theme-installer',
+            'aliases' => array(),
+            'reference' => '588ec8523a978229d23e10a0b8e0b6420192c154',
+            'dev_requirement' => false,
+        ),
+    ),
+);
