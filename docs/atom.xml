@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8000/xsl/atom.xsl" media="all"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://localhost:8000/</id>
+  <title>Site de Christien Migheri</title>
+  <subtitle><![CDATA[Site description.]]></subtitle>
+  <link href="http://localhost:8000/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:8000/" rel="alternate" type="text/html" />
+  <updated>2025-11-07T12:30:17+01:00</updated>
+  <author>
+    <name>Site de Christien Migheri</name>
+    <uri>http://localhost:8000/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/a-propos/ce-que-je-fais/</id>
+    <title>ce que je fais</title>
+    <content type="html">
+      <![CDATA[<h1 id="christien-migheri">Christien Migheri</h1>
+<p>Bienvenue sur mon blog 👋<br>
+Ici, je partage mes expériences, mes projets et mes réflexions autour du <strong>développement</strong>, de la <strong>foi</strong>, et de la <strong>technologie au service de l’humain</strong>.</p>
+<hr>
+<h2 id="rџ-c-projet-de-gestion-dvЂ-tm-G-c-glise-en-c">🧩 Projet de gestion d’église en C</h2>
+<p>📅 Novembre 2025<br>
+Je développe actuellement une application complète de <strong>gestion pour les églises catholiques</strong> avec <strong>C#</strong> et <strong>Windows Forms</strong>, intégrant la gestion des fidèles, des messes, des dons et des prêtres.<br>
+Ce projet vise à aider les paroisses à mieux organiser leurs activités et à centraliser leurs données.</p>
+<p>👉 <a href="https://github.com/migherichristien" rel="noopener noreferrer">Voir sur GitHub</a></p>
+<hr>
+<h2 id="YoYaTb-pourquoi-jtAShchaime-coder">💡 Pourquoi j’aime coder</h2>
+<p>📅 Octobre 2025<br>
+Pour moi, coder, c’est plus qu’un métier — c’est une <strong>vocation</strong>.<br>
+Je crois que la technologie peut devenir un instrument puissant pour <strong>aider les autres</strong>, <strong>servir la communauté</strong> et <strong>rendre le monde plus organisé et efficace</strong>.</p>
+<blockquote>
+<p>“Le code est un service quand il est mis au profit des autres.”</p>
+</blockquote>
+<hr>
+<h2 id="rџљЂ-mes-prochains-projets">🚀 Mes prochains projets</h2>
+<p>📅 Août 2025<br>
+Je prépare plusieurs projets à venir :</p>
+<ul>
+<li>Une <strong>application web</strong> pour la gestion de groupes paroissiaux  </li>
+<li>Un <strong>outil de suivi de dons et de rapports</strong> pour les prêtres  </li>
+<li>Un site personnel dynamique présentant mes réalisations</li>
+</ul>
+<p>Reste connecté pour découvrir les prochaines mises à jour 🔔</p>
+<hr>
+<h2 id="rџ-liens-utiles">🔗 Liens utiles</h2>
+<ul>
+<li><a href="/">Accueil</a></li>
+<li><a href="/about/">À propos</a></li>
+<li><a href="https://github.com/migherichristien" rel="noopener noreferrer">Mon GitHub</a></li>
+<li><a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">Mon site officiel</a></li>
+</ul>
+<hr>
+<p>✨ <em>Propulsé par <a href="https://cecil.app" rel="noopener noreferrer">Cecil</a> &amp; designé par Christien Migheri</em></p>]]>
+    </content>
+    <link href="http://localhost:8000/a-propos/ce-que-je-fais/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:30:17+01:00</published>
+    <updated>2025-11-07T12:30:17+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/contact/</id>
+    <title>Contact</title>
+    <content type="html">
+      <![CDATA[<h1 id="rџ-ћ-contacts">📞 Contacts</h1>
+<p>Merci de votre visite sur mon site !<br>
+Je suis <strong>Christien Migheri</strong>, développeur passionné par la technologie, la foi et les projets au service des communautés.</p>
+<p>N’hésitez pas à me contacter pour :</p>
+<ul>
+<li>💬 Discuter d’un projet ou d’une collaboration  </li>
+<li>🧑‍💻 Poser des questions sur mes travaux  </li>
+<li>🙏 Partager des idées liées à la gestion d’églises et à la technologie  </li>
+</ul>
+<hr>
+<h2 id="rџ-Њ-me-contacter">💌 Me contacter</h2>
+<p>📧 <strong>Email :</strong> <a href="mailto:migherichristien@gmail.com">christienmigheri@gmail.com</a><br>
+🌐 <strong>Site web :</strong> <a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">https://migherichristien.github.io/MIGHERIChristien/</a><br>
+🐙 <strong>GitHub :</strong> <a href="https://github.com/migherichristien" rel="noopener noreferrer">https://github.com/migherichristien</a>  </p>
+<hr>
+<h2 id="rџ-Ќ-G-propos">📍 À propos</h2>
+<p>Je suis basé en République Démocratique du Congo 🇨🇩,<br>
+et je travaille sur divers projets visant à mettre la <strong>technologie au service des paroisses et des communautés chrétiennes</strong>.</p>
+<hr>
+<blockquote>
+<p>✨ <em>“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”</em> — Christien Migheri</p>
+<pre><code class="language-markdown">You can highlight `inline code` with backticks.</code></pre>
+</blockquote>
+<h2 id="how-to-structure-page">How to structure page</h2>
+<p>Cecil automatically use the page file name as title, but you can also define title and other variables in the <a href="https://cecil.app/documentation/content/#front-matter" rel="noopener noreferrer">front matter</a>.</p>
+<p>You can structure content using a heading. Headings in Markdown are indicated by a number of <code>#</code> at the start of the line.</p>
+<pre><code class="language-markdown">---
+title: Page title
+description: Page short description.
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</code></pre>
+<h2 id="image">Image</h2>
+<p>Images use Cecil’s built-in optimized asset support.</p>
+<img src="/favicon.c1af8a129a0cde81f9b94ffbf452e10b.png" alt="Cecil favicon" title="Cecil favicon" loading="lazy" decoding="async" width="250" height="250">
+<pre><code class="language-markdown">![Cecil favicon](/favicon.png "Cecil favicon")</code></pre>
+<p>Cecil search images in <code>assets/</code> and <code>static/</code> folders, but relative path is also supported:</p>
+<pre><code class="language-markdown">![Cecil favicon](../assets/favicon.png "Cecil favicon")</code></pre>
+<h2 id="list">List</h2>
+<ul>
+<li>Unordered list</li>
+<li>Unordered list</li>
+<li>Unordered list</li>
+</ul>
+<ol>
+<li>Ordered list</li>
+<li>Ordered list</li>
+<li>Ordered list</li>
+</ol>
+<ul>
+<li>Level 1
+<ul>
+<li>Level 2</li>
+<li>Level 2</li>
+<li>Level 3</li>
+<li>Level 3</li>
+</ul></li>
+</ul>
+<h2 id="blockquote">Blockquote</h2>
+<blockquote>
+<p>This is a blockquote, which is commonly used when quoting another person or document.</p>
+<p>Blockquotes are indicated by a <code>&gt;</code> at the start of each line.</p>
+</blockquote>
+<pre><code class="language-markdown">&gt; This is a blockquote, which is commonly used when quoting another person or document.
+&gt;
+&gt; Blockquotes are indicated by a `&gt;` at the start of each line.</code></pre>
+<h2 id="code-block">Code block</h2>
+<p>A code block is indicated by a block with three backticks <code>```</code> at the start and end. You can indicate the programming language being used after the opening backticks.</p>
+<pre><code class="language-php">// PHP code
+$config = [
+    'title'   =&gt; "My website",
+    'baseurl' =&gt; 'http://localhost:8000/',
+];
+
+Builder::create($config)-&gt;build();</code></pre>
+<pre>
+```php
+// PHP code
+$config = [
+    'title'   =&gt; "My website",
+    'baseurl' =&gt; 'http://localhost:8000/',
+];
+
+Builder::create($config)-&gt;build();
+```
+</pre>
+<h2 id="there-is-a-horizontal-rule-below-this">There is a horizontal rule below this</h2>
+<hr>
+<h2 id="definition-list">Definition list</h2>
+<dl>
+<dt>First Term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition of the second term.</dd>
+<dd>This is another definition of the second term.</dd>
+</dl>
+<h2 id="table">Table</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Head 1</th>
+<th style="text-align: left;">Head 2</th>
+<th style="text-align: left;">Head 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">ok</td>
+<td style="text-align: left;">good swedish fish</td>
+<td style="text-align: left;">nice</td>
+</tr>
+<tr>
+<td style="text-align: left;">out of stock</td>
+<td style="text-align: left;">good and plenty</td>
+<td style="text-align: left;">nice</td>
+</tr>
+<tr>
+<td style="text-align: left;">ok</td>
+<td style="text-align: left;">good <code>oreos</code></td>
+<td style="text-align: left;">hmm</td>
+</tr>
+<tr>
+<td style="text-align: left;">ok</td>
+<td style="text-align: left;">good <code>zoute</code> drop</td>
+<td style="text-align: left;">yumm</td>
+</tr>
+</tbody>
+</table>
+<h2 id="notes">Notes</h2>
+<aside class="note"><p>empty</p></aside>
+<aside class="note note-info"><p>info</p></aside>
+<aside class="note note-tip"><p>tip</p></aside>
+<aside class="note note-important"><p>important</p></aside>
+<aside class="note note-warning"><p>warning</p></aside>
+<aside class="note note-caution"><p>caution</p></aside>
+<pre><code class="language-markdown">:::info|tip|important|warning|caution
+Note here.
+:::</code></pre>]]>
+    </content>
+    <link href="http://localhost:8000/contact/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:07:29+01:00</published>
+    <updated>2025-11-07T12:07:29+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/section/a-propo-de-moi-suite/</id>
+    <title>A propo de moi suite</title>
+    <content type="html">
+      <![CDATA[<h1 id="a-propos-de-christien-migheri">À propos de Christien Migheri</h1>
+<p>Je m’appelle <strong>Christien Migheri</strong>, passionné par la <strong>technologie</strong>, le <strong>développement logiciel</strong> et la <strong>gestion de projets au service de l’Église</strong>.<br>
+Mon objectif est de créer des solutions numériques utiles qui facilitent la vie des communautés et encouragent l’innovation au service de la foi.</p>
+<p>💡 J’aime particulièrement travailler sur :</p>
+<ul>
+<li>Les projets de <strong>gestion d’églises</strong> et de <strong>systèmes d’information communautaires</strong></li>
+<li>Le développement d’applications <strong>C# / .NET</strong></li>
+<li>L’apprentissage et le partage des connaissances</li>
+</ul>
+<blockquote>
+<p>“La technologie n’est pas qu’un outil, c’est un moyen d’élever, d’aider et de connecter les gens.”</p>
+</blockquote>
+<h2 id="liens-utiles">Liens utiles</h2>
+<ul>
+<li><a href="https://github.com/migherichristien" rel="noopener noreferrer">Mon profil GitHub</a></li>
+<li><a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">Mon site web officiel</a></li>
+<li><a href="/about/">Link to about page</a></li>
+<li><a href="/">Link to home page</a></li>
+</ul>]]>
+    </content>
+    <link href="http://localhost:8000/section/a-propo-de-moi-suite/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:05:39+01:00</published>
+    <updated>2025-11-07T12:05:39+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/about/</id>
+    <title>contacts</title>
+    <content type="html">
+      <![CDATA[<h1 id="rџ-ћ-contact">📞 Contact</h1>
+<p>Merci de votre visite sur mon site !<br>
+Je suis <strong>Christien Migheri</strong>, développeur passionné par la technologie, la foi et les projets au service des communautés.</p>
+<p>N’hésitez pas à me contacter pour :</p>
+<ul>
+<li>💬 Discuter d’un projet ou d’une collaboration  </li>
+<li>🧑‍💻 Poser des questions sur mes travaux  </li>
+<li>🙏 Partager des idées liées à la gestion d’églises et à la technologie  </li>
+</ul>
+<hr>
+<h2 id="rџ-Њ-me-contacter">💌 Me contacter</h2>
+<p>📧 <strong>Email :</strong> <a href="mailto:migherichristien@gmail.com">migherichristien@gmail.com</a><br>
+🌐 <strong>Site web :</strong> <a href="https://migherichristien.github.io/MIGHERIChristien/" rel="noopener noreferrer">https://migherichristien.github.io/MIGHERIChristien/</a><br>
+🐙 <strong>GitHub :</strong> <a href="https://github.com/migherichristien" rel="noopener noreferrer">https://github.com/migherichristien</a>  </p>
+<hr>
+<h2 id="rџ-Ќ-G-propos">📍 À propos</h2>
+<p>Je suis basé en République Démocratique du Congo 🇨🇩,<br>
+et je travaille sur divers projets visant à mettre la <strong>technologie au service des paroisses et des communautés chrétiennes</strong>.</p>
+<hr>
+<blockquote>
+<p>✨ <em>“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”</em> — Christien Migheri</p>
+</blockquote>]]>
+    </content>
+    <link href="http://localhost:8000/about/" rel="alternate" type="text/html" />
+    <published>2025-11-07T12:01:31+01:00</published>
+    <updated>2025-11-07T12:01:31+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>http://localhost:8000/section/competences/</id>
+    <title>competences</title>
+    <content type="html">
+      <![CDATA[<h1 id="mes-projets">Mes Projets</h1>
+<p>Bienvenue sur la page dédiée à mes projets 👨‍💻<br>
+Je m’appelle <strong>Christien Migheri</strong> et je conçois des outils numériques utiles, notamment pour la <strong>gestion d’églises</strong> et la <strong>modernisation des communautés paroissiales</strong>.</p>
+<h2 id="rџЏ-pyoЏ-application-de-gestion-dvЂ-tm-G-c-glise">🏛️ Application de gestion d’église</h2>
+<p>Un logiciel développé en <strong>C# et Windows Forms</strong>, permettant de gérer :</p>
+<ul>
+<li>Les fidèles et leurs informations</li>
+<li>Les sacrements (baptême, mariage, etc.)</li>
+<li>Les messes, dons et activités</li>
+<li>Les prêtres et groupes paroissiaux  </li>
+</ul>
+<p>🎯 <strong>Objectif :</strong> simplifier la vie administrative des paroisses.</p>
+<h2 id="rџЊђ-site-personnel">🌐 Site personnel</h2>
+<p>Ce site hébergé sur <strong>GitHub Pages</strong> présente mes réalisations, mes valeurs et mes inspirations dans le domaine du numérique et de la foi.  </p>
+<p>📎 <a href="https://github.com/migherichristien" rel="noopener noreferrer">Visiter mon GitHub</a></p>
+<hr>
+<blockquote>
+<p>“Chaque ligne de code est une opportunité d’aider et de créer quelque chose qui compte.”</p>
+<h1 id="mon-parcours">Mon Parcours</h1>
+</blockquote>
+<p>Je suis <strong>Christien Migheri</strong>, passionné de <strong>technologie</strong> et de <strong>développement logiciel</strong>.<br>
+Depuis plusieurs années, je m’intéresse particulièrement à l’intégration de la <strong>technique au service de l’Église</strong> et des <strong>valeurs humaines</strong>.</p>
+<h2 id="rџЋ-formation">🎓 Formation</h2>
+<ul>
+<li>Études en informatique et développement logiciel  </li>
+<li>Expérience en C#, .NET, gestion de base de données et conception d’applications</li>
+</ul>
+<h2 id="rџ-ј-expG-c-riences">💼 Expériences</h2>
+<ul>
+<li>Conception d’un système complet de gestion d’église catholique  </li>
+<li>Participation à des projets communautaires et associatifs  </li>
+<li>Contribution à des projets open-source sur GitHub</li>
+</ul>
+<h2 id="rџ-Ќ-objectif">🔍 Objectif</h2>
+<p>Allier <strong>foi, technologie et service</strong> pour créer des outils numériques qui facilitent la mission et la gestion des communautés.</p>
+<hr>
+<blockquote>
+<p>“La technologie peut être un instrument de foi quand elle est mise au service de l’humain.”</p>
+</blockquote>]]>
+    </content>
+    <link href="http://localhost:8000/section/competences/" rel="alternate" type="text/html" />
+    <published>2025-11-07T11:47:35+01:00</published>
+    <updated>2025-11-07T11:47:35+01:00</updated>
+  </entry>
+</feed>
