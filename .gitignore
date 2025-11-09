@@ -1,0 +1,6 @@
+_site/
+cecil.phar
+.cecil/
+.cache/
+*.log
+.DS_Store
